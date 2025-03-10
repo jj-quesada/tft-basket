@@ -3,3 +3,7 @@ tools/
 clips/
 output/
 */runs/
+action_recognition/mmaction2/
+*/.ipynb_checkpoints/
+*/.idea/
+*/.vscode/
