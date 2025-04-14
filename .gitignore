@@ -4,6 +4,9 @@ clips/
 output/
 */runs/
 action_recognition/mmaction2/
+action_recognition/models/
+action_recognition/yolo11n.pt
+action_recognition/yolo11n-pose.pt
 */.ipynb_checkpoints/
 */.idea/
 */.vscode/
