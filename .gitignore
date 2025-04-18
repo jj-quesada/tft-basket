@@ -1,8 +1,14 @@
 */datasets/
 tools/
-clips/
-output/
+assets/clips/
+output/old
+output/clips
 */runs/
+modules/*/yolo11n.pt
+modules/*/yolo11n-pose.pt
+modules/*/datasets/
+modules/*/models/
+modules/*/runs/
 action_recognition/mmaction2/
 action_recognition/models/
 action_recognition/yolo11n.pt
