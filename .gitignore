@@ -1,8 +1,6 @@
 */datasets/
 tools/
 assets/clips/
-output/old
-output/clips
 */runs/
 modules/*/yolo11n.pt
 modules/*/yolo11n-pose.pt
@@ -15,8 +13,8 @@ action_recognition/yolo11n.pt
 action_recognition/yolo11n-pose.pt
 input/partido1/
 output/partido1/
-input/partido2/
-output/partido2/
+input/partido25clips/
+output/partido25clips/
 */.ipynb_checkpoints/
 */.idea/
 */.vscode/
